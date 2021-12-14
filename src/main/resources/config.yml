@@ -1,0 +1,5 @@
+firstJoin_message: '&d<player> &fвлезе за пръв път в сървъра!'
+
+join_message: '&a<player> &fвлезе в сървъра'
+
+leave_message: '&c<player> &fизлезе от сървъра'

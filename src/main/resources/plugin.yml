@@ -1,0 +1,6 @@
+name: JoinMessages
+version: '${project.version}'
+main: me.codedcrown.joinmessages.JoinMessages
+api-version: 1.18
+authors: [ ValentinZhelev ]
+description: Minecraft configurable plugin , which sends messages the first time a player logs into the server or the next time they log in.
