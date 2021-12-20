@@ -4,10 +4,10 @@ Minecraft configurable plugin , which sends messages the first time a player log
 ## Config.yml
 
 ```bash
-firstJoin_message: '&d<player> &fвлезе за пръв път в сървъра!'
+firstJoin_message: '&d%player &fвлезе за пръв път в сървъра!'
 
-join_message: '&a<player> &fвлезе в сървъра'
+join_message: '&a%player &fвлезе в сървъра'
 
-leave_message: '&c<player> &fизлезе от сървъра'
+leave_message: '&c%player &fизлезе от сървъра'
 ```
 ## This plugin is made for the Bulgarian server BunnyCraft!
