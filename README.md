@@ -10,4 +10,4 @@ join_message: '&a%player &fвлезе в сървъра'
 
 leave_message: '&c%player &fизлезе от сървъра'
 ```
-### This plugin is made for the Bulgarian server BunnyCraft!
+### This plugin is made for the Bulgarian server BunnyCraft!!
